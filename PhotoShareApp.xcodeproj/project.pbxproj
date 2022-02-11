@@ -8,6 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		1F702C860E0CDAF38F27097D /* Pods_PhotoShareApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C40DEE5806421CB5D869906 /* Pods_PhotoShareApp.framework */; };
+		330FFDEB27B67E2400F943EA /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 330FFDEA27B67E2400F943EA /* README.md */; };
+		330FFDF127B67E6100F943EA /* screenshot1.png in Resources */ = {isa = PBXBuildFile; fileRef = 330FFDEC27B67E6100F943EA /* screenshot1.png */; };
+		330FFDF227B67E6100F943EA /* screenshot3.png in Resources */ = {isa = PBXBuildFile; fileRef = 330FFDED27B67E6100F943EA /* screenshot3.png */; };
+		330FFDF327B67E6100F943EA /* screenshot5.png in Resources */ = {isa = PBXBuildFile; fileRef = 330FFDEE27B67E6100F943EA /* screenshot5.png */; };
+		330FFDF427B67E6100F943EA /* screenshot2.png in Resources */ = {isa = PBXBuildFile; fileRef = 330FFDEF27B67E6100F943EA /* screenshot2.png */; };
+		330FFDF527B67E6100F943EA /* screenshot4.png in Resources */ = {isa = PBXBuildFile; fileRef = 330FFDF027B67E6100F943EA /* screenshot4.png */; };
 		33A3C0A1277DDE7700B9BA89 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33A3C0A0277DDE7700B9BA89 /* FeedViewController.swift */; };
 		33A3C0A3277DDE8500B9BA89 /* UploadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33A3C0A2277DDE8500B9BA89 /* UploadViewController.swift */; };
 		33A3C0A5277DDE8D00B9BA89 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33A3C0A4277DDE8D00B9BA89 /* SettingsViewController.swift */; };
@@ -24,6 +30,17 @@
 
 /* Begin PBXFileReference section */
 		1DAB9556551E07EC3EC651F8 /* Pods-PhotoShareApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PhotoShareApp.debug.xcconfig"; path = "Target Support Files/Pods-PhotoShareApp/Pods-PhotoShareApp.debug.xcconfig"; sourceTree = "<group>"; };
+		330FFDEA27B67E2400F943EA /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		330FFDEC27B67E6100F943EA /* screenshot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = screenshot1.png; path = ../../../../Desktop/screenshot1.png; sourceTree = "<group>"; };
+		330FFDED27B67E6100F943EA /* screenshot3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = screenshot3.png; path = ../../../../Desktop/screenshot3.png; sourceTree = "<group>"; };
+		330FFDEE27B67E6100F943EA /* screenshot5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = screenshot5.png; path = ../../../../Desktop/screenshot5.png; sourceTree = "<group>"; };
+		330FFDEF27B67E6100F943EA /* screenshot2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = screenshot2.png; path = ../../../../Desktop/screenshot2.png; sourceTree = "<group>"; };
+		330FFDF027B67E6100F943EA /* screenshot4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = screenshot4.png; path = ../../../../Desktop/screenshot4.png; sourceTree = "<group>"; };
+		330FFDF627B67E8200F943EA /* screenshot4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot4.png; sourceTree = "<group>"; };
+		330FFDF727B67E8200F943EA /* screenshot2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot2.png; sourceTree = "<group>"; };
+		330FFDF827B67E8200F943EA /* screenshot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot1.png; sourceTree = "<group>"; };
+		330FFDF927B67E8200F943EA /* screenshot5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot5.png; sourceTree = "<group>"; };
+		330FFDFA27B67E8200F943EA /* screenshot3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot3.png; sourceTree = "<group>"; };
 		33A3C0A0277DDE7700B9BA89 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		33A3C0A2277DDE8500B9BA89 /* UploadViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadViewController.swift; sourceTree = "<group>"; };
 		33A3C0A4277DDE8D00B9BA89 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +74,12 @@
 		33AD02482777BEC000714796 = {
 			isa = PBXGroup;
 			children = (
+				330FFDEA27B67E2400F943EA /* README.md */,
+				330FFDF827B67E8200F943EA /* screenshot1.png */,
+				330FFDF727B67E8200F943EA /* screenshot2.png */,
+				330FFDFA27B67E8200F943EA /* screenshot3.png */,
+				330FFDF627B67E8200F943EA /* screenshot4.png */,
+				330FFDF927B67E8200F943EA /* screenshot5.png */,
 				33AD02532777BEC000714796 /* PhotoShareApp */,
 				33AD02522777BEC000714796 /* Products */,
 				58D54E4F177E1B8DA66E8655 /* Pods */,
@@ -88,6 +111,11 @@
 				33A3C0A4277DDE8D00B9BA89 /* SettingsViewController.swift */,
 				33A3C0A6277F37BF00B9BA89 /* FeedTableViewCell.swift */,
 				33A3C0A8277F725300B9BA89 /* Post.swift */,
+				330FFDEC27B67E6100F943EA /* screenshot1.png */,
+				330FFDEF27B67E6100F943EA /* screenshot2.png */,
+				330FFDED27B67E6100F943EA /* screenshot3.png */,
+				330FFDF027B67E6100F943EA /* screenshot4.png */,
+				330FFDEE27B67E6100F943EA /* screenshot5.png */,
 			);
 			path = PhotoShareApp;
 			sourceTree = "<group>";
@@ -169,8 +197,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				330FFDF227B67E6100F943EA /* screenshot3.png in Resources */,
 				33AD02612777BEC200714796 /* LaunchScreen.storyboard in Resources */,
 				33AD02692777BEEC00714796 /* GoogleService-Info.plist in Resources */,
+				330FFDF427B67E6100F943EA /* screenshot2.png in Resources */,
+				330FFDEB27B67E2400F943EA /* README.md in Resources */,
+				330FFDF527B67E6100F943EA /* screenshot4.png in Resources */,
+				330FFDF327B67E6100F943EA /* screenshot5.png in Resources */,
+				330FFDF127B67E6100F943EA /* screenshot1.png in Resources */,
 				33AD025E2777BEC200714796 /* Assets.xcassets in Resources */,
 				33AD025C2777BEC000714796 /* Main.storyboard in Resources */,
 			);
